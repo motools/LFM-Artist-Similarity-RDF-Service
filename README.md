@@ -4,7 +4,7 @@ DBTune Last.fm Artist Similarity RDF Service
 About
 -----
 
-The [DBTune Last.fm Artist Similarity RDF Service](http://dbtune.org/artists/last-fm/) provides an RDF representation of music artists and their similar artists based on the Last.fm API.
+The [DBTune Last.fm Artist Similarity RDF Service](http://dbtune.org/artists/last-fm/) provides an RDF representation of music artists and their similar artists based on the [Last.fm API](http://last.fm/api).
 
 PS
 --
